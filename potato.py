@@ -26,4 +26,4 @@ myName = "Not Mr Hunt"
 
 my_name = "Johnny"
 
-MyName = "Doofus"
+MyName = "Doofusee"
